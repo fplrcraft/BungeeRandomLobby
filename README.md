@@ -21,4 +21,4 @@
 Please open a ticket into Issues for report bugs. Thanks <3
 
 # And..
-If you like this, star me or review on spigotmc <3
+If you like this, star me or review on <a href="https://www.spigotmc.org/resources/bungeerandomlobbyconnector.76410/"> SpigotMC </a> <3
