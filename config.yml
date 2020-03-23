@@ -1,0 +1,42 @@
+# RandomLobby 1.0 by NotReference
+# Configuration file.
+
+# Log to staff players actions.
+log-staff: false
+
+# Lobby Servers.
+lobby-servers:
+- Lobby
+- Lobby2
+
+# Messages:
+# Placeholders:
+# [server] - Returns the destination server if set.
+
+sending: '&eSending you to [server]..'
+connecting: '&eConnecting to the server..'
+success: '&aYou have been successfully connected to [server].'
+error-con: '&cUnable to connect to [server].'
+error-back: '&cYou have been moved back.'
+blocked-here: '&cYou cannot use this command in this server.'
+
+# Staff Log:
+# Placeholders:
+# [utente] - Returns the user name.
+# [server] - Returns the destination server if set.
+# [ip] - Returns the player's ip.
+
+staff-log-success: '&a[utente] has been connected to [server].'
+staff-log-fail: '&cUnable to connect [utente] to [server].'
+staff-log-sending: '&eSending [utente] to [server]..'
+
+# Custom Lobby Command
+# Default Commands are:
+# /hub
+# /login 
+# If you want you can add a custom command.
+# The Command /randomlobby cannot be used.
+custom-command: randomhub
+
+# Block commands (/lobby, /hub/, /customcommand) from this server.
+blocked-server: null

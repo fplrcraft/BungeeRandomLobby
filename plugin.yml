@@ -1,0 +1,5 @@
+name: RandomLobby
+author: NotReference
+version: 1.0
+description: Send players to multiple lobbys random.
+main: it.notreference.bungee.randomlobby.RandomLobbyMain
